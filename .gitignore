@@ -1,0 +1,6 @@
+_pycache__/
+*.рус
+*.npy
+*.CSV
+.env
+.ipynb_checkpoints/
